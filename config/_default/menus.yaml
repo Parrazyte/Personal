@@ -7,13 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-
   - name: Research
     identifier: research
     weight: 20
   - name: X-ray Winds Observations
     parent: research
-    url: research/wind_obs/
+    url: '#research/wind_obs/'
     weight: 1
   - name: X-ray Winds Modeling
     parent: research
@@ -27,15 +26,13 @@ main:
     parent: research
     url: research/ulx/
     weight: 2
-
   - name: Codes
-    identifier: code
+    identifier: '#code'
     weight: 30
   - name: Online Tools
     parent: code
     url: code/wind_obs/
     weight: 1
-
   - name: Outreach
     identifier: outreach
     weight: 40
