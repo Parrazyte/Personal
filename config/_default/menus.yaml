@@ -7,24 +7,49 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+
+  - name: Research
+    identifier: research
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: X-ray Winds Observations
+    parent: research
+    url: research/wind_obs/
+    weight: 1
+  - name: X-ray Winds Modeling
+    parent: research
+    url: research/wind_mod/
+    weight: 2
+  - name: X-ray Polarimetry
+    parent: research
+    url: research/pola/
+    weight: 2
+  - name: ULX studies
+    parent: research
+    url: research/ulx/
+    weight: 2
+
+  - name: Codes
+    identifier: code
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Online Tools
+    parent: code
+    url: code/wind_obs/
+    weight: 1
+
+  - name: Outreach
+    identifier: outreach
     weight: 40
   - name: Publications
-    url: '#featured'
+    identifier: publications
     weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: CV
+    url: uploads/CV_long_02_2024.pdf
     weight: 60
+
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
 #    url: uploads/resume.pdf
-#    weight: 70
+#    weight: 60
