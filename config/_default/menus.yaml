@@ -12,7 +12,7 @@ main:
     weight: 20
   - name: X-ray Winds Observations
     parent: research
-    url: '#research/wind_obs/'
+    url: 'research/wind_obs/'
     weight: 1
   - name: X-ray Winds Modeling
     parent: research
@@ -21,11 +21,11 @@ main:
   - name: X-ray Polarimetry
     parent: research
     url: research/pola/
-    weight: 2
+    weight: 3
   - name: ULX studies
     parent: research
     url: research/ulx/
-    weight: 2
+    weight: 4
   - name: Codes
     identifier: '#code'
     weight: 30
