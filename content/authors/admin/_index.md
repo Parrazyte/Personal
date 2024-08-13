@@ -25,7 +25,8 @@ organizations:
     url: https://matematicafisica.uniroma3.it/ricerca/linee-di-ricerca/astrofisica/la-fisica-degli-oggetti-compatti/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Compact Objects shenanigans
+ bio: ''
+#bio: Compact Objects shenanigans
 
 # Interests to show in About widget
 interests:
