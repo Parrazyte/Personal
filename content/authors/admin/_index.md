@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Astrophysics
       institution: Univ. Grenoble-Alpes, CNRS, IPAG, 38000 Grenoble, France
       institution: Dipartimento di matematica e fisica, Università Degli Studi Roma Tre
       year: 2021-*
@@ -85,10 +85,11 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: '/#contact'
+social:
+   - icon: envelope
+     icon_pack: fas
+     link: 'mailto:maxime.parrastro@gmail.com'
+
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
