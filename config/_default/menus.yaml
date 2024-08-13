@@ -40,7 +40,7 @@ main:
     identifier: publications
     weight: 50
   - name: CV
-    url: uploads/CV_long_02_2024.pdf
+    url: uploads/CV_long_PARRA.pdf
     weight: 60
 
 
