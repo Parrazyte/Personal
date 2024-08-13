@@ -39,9 +39,9 @@ main:
   - name: Publications
     identifier: publications
     weight: 50
-  # - name: CV
-  #   url: uploads/CV_long_PARRA.pdf
-  #   weight: 60
+  - name: CV
+    url: uploads/CV_long_PARRA.pdf
+    weight: 60
 
 
 
